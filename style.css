@@ -2,3 +2,11 @@
     width: 65px;
     height: 65px;
 }
+
+#navbar {
+    background-color: rgb(252, 222, 51) ;
+    color:rgb(12, 12, 12); 
+
+    display: flex;
+    justify-content: space-between;
+}

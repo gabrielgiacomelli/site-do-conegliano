@@ -74,3 +74,12 @@ width: 400px;
     margin-top: 8px;
     font-weight: bold;
 }
+
+.gif-inferior-direito {
+    position: fixed;
+    bottom: 20px;  
+    right: 20px;   
+    width: 200px; 
+    height: auto; 
+    z-index: 1000; 
+}
